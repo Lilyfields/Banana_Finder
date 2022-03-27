@@ -3,11 +3,11 @@
 1.ALBUM ART - We did experience issues using the URL provided by our API only gave us http links, not https and that means we cant view the album art when deployed. It works perfectly when hosted locally. Please see image at bottom of README
 
 
-Deployed application link: https://fubzee.github.io/banana-finder/
+# Deployed application link: https://fubzee.github.io/banana-finder/
 
-Github Repo: https://github.com/fubzee/banana-finder
+# Github Repo: https://github.com/fubzee/banana-finder
 
-Supporting links: https://docs.google.com/presentation/d/1pUnNa89MIznuCAZJopIeIFIJDXKujv7h2k9snAtxGOo/edit#slide=id.p1
+# Supporting links: https://docs.google.com/presentation/d/1pUnNa89MIznuCAZJopIeIFIJDXKujv7h2k9snAtxGOo/edit#slide=id.p1
 
 #
 
@@ -75,7 +75,7 @@ Project Team - Brenton, Lamek, Sasam, Lily
 # 2. Wire-frame/Chicken Scribble.
 
 ## Basic Mobile Wire-frame
-![wire-frame](./assets/images/inital_wireframe.png)
+![wire-frame] <image src="http./assets/images/inital_wireframe.png" width =400  height= 200>
 
 ## Style Guide (Starting Point)
 ![chicken](./assets/images/chicken.png)
