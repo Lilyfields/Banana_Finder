@@ -1,5 +1,6 @@
 # banana-finder
-# Known Issues
+
+# Challenges
 1.ALBUM ART - We did experience issues using the URL provided by our API only gave us http links, not https and that means we cant view the album art when deployed. It works perfectly when hosted locally. Please see image at bottom of README
 
 
