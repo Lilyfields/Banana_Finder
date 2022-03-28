@@ -76,8 +76,10 @@ Project Team - Brenton, Lamek, Sasam, Lily
 # 2. Wire-frame/Chicken Scribble.
 
 ## Basic Mobile Wire-frame
-![wire-frame] <image src="http./assets/images/inital_wireframe.png" width =400  height= 200>
+  
+ <image src="https://user-images.githubusercontent.com/94832331/160340449-819abfd5-1966-4b85-b8aa-ee7d4ac7c7a8.png" width=500 height=250>
 
+  
 ## Style Guide (Starting Point)
 ![chicken](./assets/images/chicken.png)
 
