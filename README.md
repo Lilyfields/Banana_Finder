@@ -130,8 +130,9 @@ Project Team - Brenton, Lamek, Sasam, Lily
 
 
 ## Style Guide (Starting Point)
-![ERROR](./assets/images/errorAlbumArt.png)
-  
+
+  <image src="https://user-images.githubusercontent.com/94832331/160341369-2d4a368b-d015-4a89-9f7c-ccc69376acad.png" width=500 height=250>
+
   
   
   
