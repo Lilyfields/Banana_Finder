@@ -81,9 +81,8 @@ Project Team - Brenton, Lamek, Sasam, Lily
 
   
 ## Style Guide (Starting Point)
-![chicken](./assets/images/chicken.png)
-
   
+<image src"https://user-images.githubusercontent.com/94832331/160340938-d02eed2e-c722-4a53-b574-acfbca0ec0df.png" width=500 height=250>
   
 
 # 3. HTML.
