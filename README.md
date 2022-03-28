@@ -136,7 +136,7 @@ Project Team - Brenton, Lamek, Sasam, Lily
   
 ## Images for Banana Finder
   
-  <image src="https://user-images.githubusercontent.com/94832331/160302734-5356580a-4c36-4842-80c9-d4bcaf862ac4.png)" width=500  height=250>
+  <image src="https://user-images.githubusercontent.com/94832331/160302734-5356580a-4c36-4842-80c9-d4bcaf862ac4.png" width=500  height=250>
 
   
   
